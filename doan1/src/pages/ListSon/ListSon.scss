@@ -1,0 +1,59 @@
+.list-son{
+    position: fixed;
+}
+.ds-son{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    height: 60vh;
+    margin-left: 100px;
+}
+.form-son{
+    margin-top: 100px;
+    background-color: rgb(21, 219, 160);
+    margin-left: 94px;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    border-radius: 40px;
+    
+}
+.avatar{
+    margin-top: 15px;
+    margin-left: 48px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.name{
+    margin-top: 5px;
+}
+.button-son {
+    margin-top: 5px;
+    width: 100px;
+    height: 40px;
+    margin-left: 95px;
+    border-radius: 30px;
+}
+
+.button-son:hover {
+    background-color: blanchedalmond;
+}
+
+.click-add-son{
+    margin-top: 30px;
+    width: 100px;
+    height: 35px;
+    margin-left: 690px;
+    border-radius: 30px;
+    background-color: white;
+   border: 2px solid black;
+}
+
+.click-add-son:hover {
+    background-color: blanchedalmond;
+}
+

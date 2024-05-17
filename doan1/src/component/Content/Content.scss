@@ -1,0 +1,64 @@
+.form-container-content{
+    background-color: rgb(21, 219, 160);
+    margin-top: 90px;
+    height: 80vh;
+    width: 100%; 
+    border-bottom-left-radius: 30px; /* border-radius ở góc trên bên trái */
+    border-bottom-right-radius: 30px; /* border-radius ở góc trên bên trái */
+    // background-color: red;
+   
+}
+.ct-1{
+    margin-left: 350px;
+    margin-top: 2%;
+    display: flex;
+    text-align: left;
+
+}
+.h-1{
+    border-radius: 30px;
+    background-color: white;
+
+}
+.h-2{
+    margin-left: 25px;
+    // background-size: contain; /* Hiển thị ảnh trong khung mà không làm biến dạng */
+    // background-repeat: no-repeat; /* Ngăn lặp lại ảnh */
+    background-size: 100% 100%;
+    border-radius: 30px;
+
+}
+.ct-2{
+    margin-left: 350px;
+    margin-top: 5%;
+    display: flex;
+    text-align: left;
+    width: 830px;
+    background-color:white;
+    border-radius: 30px;
+    position: relative;
+}
+.h-3{
+    border-top-left-radius: 30px; /* border-radius ở góc trên bên trái */
+    border-bottom-left-radius: 30px; /* border-radius ở góc trên bên trái */
+
+
+}
+.h-4{
+    // background-size: contain; /* Hiển thị ảnh trong khung mà không làm biến dạng */
+    // background-repeat: no-repeat; /* Ngăn lặp lại ảnh */
+    background-size: 100% 100%;
+    border-radius: 30px;
+}
+.img-icon{
+    border-radius: 20px;
+    margin-left: 250px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 100px;
+}
+.form-bottom{
+    background-color: white;
+    position: absolute;
+    width: 100%;
+}
